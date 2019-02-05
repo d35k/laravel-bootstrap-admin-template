@@ -7,7 +7,7 @@ The special thanks goes to [StartBootstrap SB Admin 2](https://github.com/Blackr
 
 First of all, you can clone the repository using ssh,
 
-       git clone git@github.com:d35k/laravel-bootstrap-admin-blank.git
+    git clone git@github.com:d35k/laravel-bootstrap-admin-blank.git
 
 or using https,
 
