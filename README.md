@@ -13,7 +13,7 @@ or using https,
 
     git clone https://github.com/d35k/laravel-bootstrap-admin-blank.git
 
-After that, type `composer install` for downloading vendor requirements, and for beginning to create your amazing projects, just type `npm install` and `npm run dev`.
+After that, type `composer install` command into you terminal for installing vendor requirements, and start to create your amazing projects, just type `npm install` and `npm run dev` commands for compile your amazing codes.
 
 ## Writing your own SASS and JS
 
