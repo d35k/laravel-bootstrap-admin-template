@@ -1,6 +1,6 @@
 # Laravel And Bootstrap 4 Admin Panel Template
 
-![Screenshot of application](https://github.com/d35k/laravel-bootstrap-admin-template/blob/master/public/img/screenshot.png)
+![Screenshot of application](https://github.com/d35k/laravel-bootstrap-admin-template/blob/master/public/img/screenshot_new.png)
 
 The special thanks goes to [StartBootstrap SB Admin 2](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2)
 
