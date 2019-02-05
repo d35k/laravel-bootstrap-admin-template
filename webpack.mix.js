@@ -8,6 +8,7 @@ var paths = {
     'datatables': './node_modules/datatables.net/',
     'chartjs': "./node_modules/chart.js/dist/",
     'jqeasing': "./node_modules/jquery.easing/",
+    'popperjs': "./node_modules/popper.js/",
 }
 
 /*
@@ -25,7 +26,8 @@ mix.js('resources/js/app.js', 'public/js')
     .sass('resources/sass/app.scss', 'public/css').sourceMaps().browserSync('stock-check.test')
     .scripts([
         paths.jquery + "dist/jquery.js",
-        paths.bootstrap + "js/dist/index.js",
+        paths.popperjs + "dist/umd/popper.min.js",
+        paths.bootstrap + "dist/js/bootstrap.min.js",
         paths.chartjs + "Chart.min.js",
         paths.datatables + "js/jquery.dataTables.min.js",
         paths.datatables_4 + "js/dataTables.bootstrap4.min.js",
